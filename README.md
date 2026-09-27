@@ -12,7 +12,6 @@ I'm a high school student from Afghanistan interested in:
 
 ---
 
-🛠️ Skills
 ## 🛠️ Skills
 
 ### Programming Languages
